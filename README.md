@@ -57,7 +57,8 @@ Focus on the early stages (1-3 months) to build loyalty. Offer incentives or dis
 Increase promotion of long-term contracts:
 Offer flexible packages or attractive promotions for customers switching from a monthly contract to a 1-year or 2-year contract. Extending the commitment period will help the company stabilize revenue and reduce churn in the long term.
 
-<img width="612" alt="Screenshot 2024-10-19 083105" src="https://github.com/user-attachments/assets/b9059bd8-912a-4acf-86f7-4cee937c8ced">
+<img width="612" alt="Screenshot 2024-10-19 083105" src="https://github.com/user-attachments/assets/39db5c7e-88b8-4f50-b7ba-7a907d5715aa">
+
 
 1. Overview of Chart 2
 Chart type: Boxplot (box chart) to compare monthly fees between two customer groups: Churn (Yes) and No Churn (No).
@@ -85,7 +86,7 @@ Analyze other factors besides fees: Customers churn not only because of high fee
 
 Special offers for customer groups at risk of churn: Offer promotions or temporary fee reductions to customers showing signs of churn, especially those paying high fees.
 
-<img width="556" alt="python 1" src="https://github.com/user-attachments/assets/f3af72d3-0045-4dee-8327-a6c3f00523fc">
+<img width="578" alt="boxplot" src="https://github.com/user-attachments/assets/677fcc58-6d25-481c-8653-19605c419f34">
 
 
 Identified from chart data: The churn rate of Fiber optic service is the highest (~41% of the customer group with churn).
